@@ -23,14 +23,12 @@
 | **[studentmanagementjdbc](https://github.com/gdeepak2201-dot/studentmanagementjdbc)** | CRUD application for enrollment and grades. | Java, JDBC |
 | **[Food Ordering System](https://github.com/gdeepak2201-dot)** | Full-stack admin management system. | Node.js, MySQL |
 | **[receipebookingsystem](https://github.com/gdeepak2201-dot/receipebookingsystem)** | Streamlined transaction and booking records. | Java |
-| **[TriStor-Lite](https://github.com/gdeepak2201-dot)** | Hybrid energy storage reliability optimization. | Hardware-Software Integration |
 
 ---
 
 ### 📊 Professional Highlights
 * 🏆 **Top Performer** at the Global Startup Summit 2025.
-* 📈 **Data Analytics Intern** at Tata (Power BI focus).
-* 🧩 **100+ LeetCode** algorithmic problems solved.
+* 🧩 **170+ LeetCode** algorithmic problems solved.
 * 🤖 **IoT Specialist** in autonomous irrigation protocols.
 
 ---
