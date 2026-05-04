@@ -28,7 +28,7 @@
 
 ### 📊 Professional Highlights
 * 🏆 **Top Performer** at the Global Startup Summit 2025.
-* 🧩 **170+ LeetCode** algorithmic problems solved.
+* 🧩 **200+ LeetCode** algorithmic problems solved.
 * 🤖 **IoT Specialist** in autonomous irrigation protocols.
 
 ---
