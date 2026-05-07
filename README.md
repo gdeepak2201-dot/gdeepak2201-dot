@@ -32,6 +32,14 @@ I am an **Electronics & Communication Engineering** student at Rathinam Technica
 
 ### 📌 Featured Projects
 
+#### 🤖 [Autonomous Irrigation Protocol](https://github.com/gdeepak2201-dot)
+*An IoT solution using soil sensors and Arduino to automate water delivery, featuring a Node.js/MySQL backend for data persistence and monitoring.*
+> **Tech:** Arduino, Embedded C
+
+#### 🍔 [Food Ordering & Admin System](https://github.com/gdeepak2201-dot)
+*A full-stack application with a dynamic ordering interface and a comprehensive management dashboard for menu and order tracking.*
+> **Tech:** Node.js, Express, EJS, MySQL
+
 #### 🏛️ [College Management System](https://github.com/gdeepak2201-dot/collegemanagement)
 *Full-featured academic workflow engine handling student records and administrative logistics.*
 > **Tech:** Java, MySQL, OOP Principles
