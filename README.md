@@ -42,11 +42,16 @@ I am an **Electronics & Communication Engineering** student at Rathinam Technica
 
 ---
 
-### 📊 GitHub & Coding Activity
+### 📊 Coding Metrics
 
 <p align="center">
+  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=gdeepak2201-dot&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Deepak's GitHub Stats" />
   <br/>
+  <!-- LeetCode Stats Card -->
+  <img src="https://leetcard.jacoblin.cool/deepakg2006?theme=dark&font=Recursive" alt="Deepak's LeetCode Stats" />
+  <br/>
+  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdeepak2201-dot&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
