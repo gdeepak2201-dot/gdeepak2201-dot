@@ -3,9 +3,9 @@
 ### **Software-Focused Engineer | IoT Specialist | Problem Solver**
 > *Bridging the gap between robust hardware and scalable software.*
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/gdeepak2201/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/deepakg2006/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-govindaraj-402524274/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://gdeepak2201-dot.github.io/portfolio/)
 
 ---
 
@@ -36,10 +36,6 @@ I am an **Electronics & Communication Engineering** student at Rathinam Technica
 *Full-featured academic workflow engine handling student records and administrative logistics.*
 > **Tech:** Java, MySQL, OOP Principles
 
-#### 🍔 [Full-Stack Food Ordering Admin](https://github.com/gdeepak2201-dot)
-*End-to-end management system for restaurant operations and real-time order tracking.*
-> **Tech:** Node.js, Express, MySQL
-
 #### 📊 [Student Enrollment (JDBC)](https://github.com/gdeepak2201-dot/studentmanagementjdbc)
 *Performance-optimized CRUD application utilizing raw JDBC for high-speed database interactions.*
 > **Tech:** Java, JDBC, PostgreSQL
@@ -49,9 +45,9 @@ I am an **Electronics & Communication Engineering** student at Rathinam Technica
 ### 📊 GitHub & Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gdeepak2201-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Deepak's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdeepak2201-dot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gdeepak2201-dot&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Deepak's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdeepak2201-dot&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
@@ -60,7 +56,7 @@ I am an **Electronics & Communication Engineering** student at Rathinam Technica
 - 🔭 **I’m currently working on:** Advanced Microservices Architecture.
 - ⚡ **Fun Fact:** I approach coding like circuit design—efficiency and low resistance are key.
 - 💬 **Ask me about:** Java, SQL, or why IoT is the future of automation.
-- 📫 **How to reach me:** [gdeepak2201@email.com](mailto:your-email@example.com)
+- 📫 **How to reach me:** [gdeepak2201@gmail.com](mailto:gdeepak2201@gmail.com)
 
 ---
 <p align="center">
