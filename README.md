@@ -1,6 +1,6 @@
 # 👨‍💻 Deepak G 
 
-### **Software-Focused Engineer | IoT Specialist | Problem Solver**
+### **Forward Deployed Engineer**
 > *Bridging the gap between robust hardware and scalable software.*
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/deepakg2006/)
