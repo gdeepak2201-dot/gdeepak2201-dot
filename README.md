@@ -1,74 +1,271 @@
-# 👨‍💻 Deepak G 
+<div align="center">
 
-### **Forward Deployed Engineer**
-> *Bridging the gap between robust hardware and scalable software.*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0f172a,50:1d4ed8,75:0891b2,100:06b6d4&text=DEEPAK%20G&fontSize=62&fontColor=ffffff&fontAlignY=35&desc=FORWARD%20DEPLOYED%20ENGINEER%20%40%20EPHRON%20TECH%20LLC&descSize=19&descAlignY=58&animation=twinkling" width="100%"/>
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/deepakg2006/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-govindaraj-402524274/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://gdeepak2201-dot.github.io/portfolio/)
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=FORWARD+DEPLOYED+ENGINEER+%40+EPHRON+TECH+LLC;BUILDING+%E2%80%A2+INTEGRATING+%E2%80%A2+DEBUGGING+%E2%80%A2+DEPLOYING;BACKEND+%7C+CLOUD+%7C+APIs+%7C+SECURITY;TURNING+REAL-WORLD+PROBLEMS+INTO+ENGINEERING+SOLUTIONS" alt="Typing Animation"/>
 
-### 🚀 About Me
-I am an **Electronics & Communication Engineering** student at Rathinam Technical Campus with a deep passion for **Backend Architecture** and **Scalable Logic**. I specialize in building data-driven applications and optimizing the intersection of IoT and Web technologies.
+<br><br>
 
-* 🏆 **Global Startup Summit 2025:** Top Performer Award.
-* 🧩 **Algorithmic Enthusiast:** 200+ LeetCode problems solved.
-* 🤖 **IoT Innovator:** Developed autonomous irrigation protocols.
-* 🎓 **Focus:** High-performance Java applications and SQL optimization.
+<a href="https://www.linkedin.com/in/deepak-govindaraj-402524274/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://gdeepak2201-dot.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/gdeepak2201-dot">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<br><br>
 
-### 🛠️ Technical Arsenal
+<img src="https://komarev.com/ghpvc/?username=gdeepak2201-dot&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge"/>
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Embedded** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![IoT](https://img.shields.io/badge/-IoT-blueviolet?style=flat-square) |
-| **Dev Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![JDBC](https://img.shields.io/badge/-JDBC-orange?style=flat-square) |
+</div>
 
 ---
 
-### 📌 Featured Projects
+## ⚡ About Me
 
-#### 🤖 [Autonomous Irrigation Protocol](https://github.com/gdeepak2201-dot)
-*An IoT solution using soil sensors and Arduino to automate water delivery, featuring a Node.js/MySQL backend for data persistence and monitoring.*
-> **Tech:** Arduino, Embedded C
+<div align="center">
 
-#### 🍔 [Food Ordering & Admin System](https://github.com/gdeepak2201-dot)
-*A full-stack application with a dynamic ordering interface and a comprehensive management dashboard for menu and order tracking.*
-> **Tech:** Node.js, Express, EJS, MySQL
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&lines=Forward+Deployed+Engineer+%40+Ephron+Tech+LLC;Building+practical+software+solutions.;Working+across+systems%2C+APIs%2C+cloud+%26+infrastructure.;Turning+requirements+into+working+engineering+solutions." alt="About Me Animation"/>
 
-#### 🏛️ [College Management System](https://github.com/gdeepak2201-dot/collegemanagement)
-*Full-featured academic workflow engine handling student records and administrative logistics.*
-> **Tech:** Java, MySQL, OOP Principles
+</div>
 
-#### 📊 [Student Enrollment (JDBC)](https://github.com/gdeepak2201-dot/studentmanagementjdbc)
-*Performance-optimized CRUD application utilizing raw JDBC for high-speed database interactions.*
-> **Tech:** Java, JDBC, PostgreSQL
+I am a **Forward Deployed Engineer at Ephron Tech LLC**, focused on turning real-world requirements into reliable, deployable software solutions.
+
+My work sits at the intersection of **software engineering, system integration, debugging, automation, cloud infrastructure, authentication, and customer-focused problem solving**.
+
+I work across backend systems, APIs, databases, containers, identity systems, and deployment workflows to understand complex systems and deliver practical engineering solutions.
 
 ---
 
-### 📊 Coding Metrics
+# 🚀 What I Do
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gdeepak2201-dot&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Deepak's GitHub Stats" />
-  <br/><br/>
-  <img src="https://leetcard.jacoblin.cool/deepakg2006?theme=dark&font=Recursive" alt="Deepak's LeetCode Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gdeepak2201-dot&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🔧 BUILD
+
+Backend Systems
+
+APIs
+
+Database Workflows
+
+Application Features
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔗 INTEGRATE
+
+REST APIs
+
+External Services
+
+Identity Providers
+
+Business Systems
+
+</td>
+
+<td align="center" width="33%">
+
+### 🐛 DEBUG
+
+Application Issues
+
+Legacy Systems
+
+Containers
+
+Deployment Problems
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ☁️ DEPLOY
+
+Docker
+
+AWS
+
+CI/CD
+
+Infrastructure
+
+Deployment Workflows
+
+</td>
+
+<td align="center">
+
+### 🔐 SECURE
+
+OAuth 2.0
+
+OpenID Connect
+
+Microsoft Identity
+
+Application Security
+
+</td>
+
+<td align="center">
+
+### 🤝 DELIVER
+
+Requirements
+
+System Solutions
+
+Testing
+
+Verification
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 🤝 Connect with Me
-- 🔭 **I’m currently working on:** Advanced Microservices Architecture.
-- ⚡ **Fun Fact:** I approach coding like circuit design—efficiency and low resistance are key.
-- 💬 **Ask me about:** Java, SQL, or why IoT is the future of automation.
-- 📫 **How to reach me:** [gdeepak2201@gmail.com](mailto:gdeepak2201@gmail.com)
+# 🛠️ Technical Arsenal
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,php&theme=dark" />
+
+<br><br>
+
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql&theme=dark" />
+
+<br><br>
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,terraform,linux,bash&theme=dark" />
+
+<br><br>
+
+### 🔧 Engineering Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" />
+
+</div>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gdeepak2201-dot&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+
+# 🧠 Engineering Focus
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=600&color=22D3EE&center=true&vCenter=true&width=800&lines=UNDERSTAND+THE+SYSTEM;IDENTIFY+THE+PROBLEM;DESIGN+THE+SOLUTION;INTEGRATE+THE+SYSTEMS;TEST+%26+VERIFY;DEPLOY+WITH+CONFIDENCE" alt="Engineering Process"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center">🧩<br><b>Understand</b></td>
+<td>→</td>
+<td align="center">🔗<br><b>Integrate</b></td>
+<td>→</td>
+<td align="center">🐛<br><b>Debug</b></td>
+<td>→</td>
+<td align="center">🧪<br><b>Verify</b></td>
+<td>→</td>
+<td align="center">🚀<br><b>Deploy</b></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gdeepak2201-dot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdeepak2201-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=gdeepak2201-dot&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gdeepak2201-dot&bg_color=0d1117&color=38bdf8&line=06b6d4&point=ffffff&area=true&hide_border=true&custom_title=Deepak's%20Engineering%20Activity" width="95%"/>
+
+</div>
+
+---
+
+# 🧩 Engineering Philosophy
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Understand+%E2%86%92+Integrate+%E2%86%92+Debug+%E2%86%92+Verify+%E2%86%92+Deploy;BUILD+%E2%80%A2+SOLVE+%E2%80%A2+SHIP" alt="Engineering Philosophy"/>
+
+<br><br>
+
+> **Good engineering is not just writing code.**
+>
+> **It's understanding the problem, the system, and the people who depend on it.**
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/deepak-govindaraj-402524274/">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://gdeepak2201-dot.github.io/portfolio/">
+<img src="https://img.shields.io/badge/EXPLORE-Portfolio-06B6D4?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=800&color=67E8F9&center=true&vCenter=true&width=700&lines=BUILD+%E2%80%A2+INTEGRATE+%E2%80%A2+SOLVE+%E2%80%A2+SHIP+%F0%9F%9A%80" alt="Final Animation"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:06b6d4,35:0891b2,70:2563eb,100:020617&section=footer&animation=twinkling" width="100%"/>
+
+</div>
