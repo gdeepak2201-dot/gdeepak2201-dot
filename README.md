@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0f172a,50:1d4ed8,75:0891b2,100:06b6d4&text=DEEPAK%20G&fontSize=62&fontColor=ffffff&fontAlignY=35&desc=FORWARD%20DEPLOYED%20ENGINEER%20%40%20EPHRON%20TECH%20LLC&descSize=19&descAlignY=58&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0f172a,50:1d4ed8,75:0891b2,100:06b6d4&text=DEEPAK%20G&fontSize=62&fontColor=ffffff&fontAlignY=35&desc=FORWARD%20DEPLOYED%20ENGINEER%20%40%20EPHRON%20TECH%20LLC&descSize=19&descAlignY=58&animation=twinkling" width="100%" alt="Deepak G"/>
 
 <br>
 
@@ -9,26 +9,30 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/deepak-govindaraj-402524274/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 &nbsp;
+
 <a href="https://gdeepak2201-dot.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
+
 &nbsp;
+
 <a href="https://github.com/gdeepak2201-dot">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=gdeepak2201-dot&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=gdeepak2201-dot&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## ⚡ About Me
+# ⚡ About Me
 
 <div align="center">
 
@@ -50,6 +54,7 @@ I work across backend systems, APIs, databases, containers, identity systems, an
 
 <table>
 <tr>
+
 <td align="center" width="33%">
 
 ### 🔧 BUILD
@@ -91,10 +96,12 @@ Containers
 Deployment Problems
 
 </td>
+
 </tr>
 
 <tr>
-<td align="center">
+
+<td align="center" width="33%">
 
 ### ☁️ DEPLOY
 
@@ -110,7 +117,7 @@ Deployment Workflows
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 ### 🔐 SECURE
 
@@ -124,7 +131,7 @@ Application Security
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 ### 🤝 DELIVER
 
@@ -137,6 +144,7 @@ Testing
 Verification
 
 </td>
+
 </tr>
 </table>
 
@@ -150,25 +158,25 @@ Verification
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,php&theme=dark" alt="Languages"/>
 
 <br><br>
 
 ### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql&theme=dark" alt="Backend and Databases"/>
 
 <br><br>
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,terraform,linux,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,terraform,linux,bash&theme=dark" alt="Cloud and DevOps"/>
 
 <br><br>
 
 ### 🔧 Engineering Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" alt="Engineering Tools"/>
 
 </div>
 
@@ -184,15 +192,45 @@ Verification
 
 <table>
 <tr>
-<td align="center">🧩<br><b>Understand</b></td>
+
+<td align="center">
+🧩
+<br>
+<b>Understand</b>
+</td>
+
 <td>→</td>
-<td align="center">🔗<br><b>Integrate</b></td>
+
+<td align="center">
+🔗
+<br>
+<b>Integrate</b>
+</td>
+
 <td>→</td>
-<td align="center">🐛<br><b>Debug</b></td>
+
+<td align="center">
+🐛
+<br>
+<b>Debug</b>
+</td>
+
 <td>→</td>
-<td align="center">🧪<br><b>Verify</b></td>
+
+<td align="center">
+🧪
+<br>
+<b>Verify</b>
+</td>
+
 <td>→</td>
-<td align="center">🚀<br><b>Deploy</b></td>
+
+<td align="center">
+🚀
+<br>
+<b>Deploy</b>
+</td>
+
 </tr>
 </table>
 
@@ -200,27 +238,193 @@ Verification
 
 ---
 
-# 📊 GitHub Activity
+# 💻 Development Workflow
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gdeepak2201-dot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+<table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdeepak2201-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<tr>
 
-<br><br>
+<td align="center">
+📝
+<br>
+<b>Understand</b>
+<br>
+Requirements
+</td>
 
-<img src="https://streak-stats.demolab.com?user=gdeepak2201-dot&theme=tokyonight&hide_border=true&border_radius=12" />
+<td>→</td>
+
+<td align="center">
+🏗️
+<br>
+<b>Design</b>
+<br>
+Solution
+</td>
+
+<td>→</td>
+
+<td align="center">
+💻
+<br>
+<b>Build</b>
+<br>
+Implementation
+</td>
+
+<td>→</td>
+
+<td align="center">
+🧪
+<br>
+<b>Test</b>
+<br>
+Verification
+</td>
+
+<td>→</td>
+
+<td align="center">
+🚀
+<br>
+<b>Deploy</b>
+<br>
+Production
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🔐 Security & Integration
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gdeepak2201-dot&bg_color=0d1117&color=38bdf8&line=06b6d4&point=ffffff&area=true&hide_border=true&custom_title=Deepak's%20Engineering%20Activity" width="95%"/>
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🔑 Identity
+
+OAuth 2.0
+
+OpenID Connect
+
+Microsoft Identity
+
+Authentication
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔗 Integration
+
+REST APIs
+
+External Services
+
+Business Systems
+
+Identity Providers
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛡️ Security
+
+Access Control
+
+Secure Authentication
+
+Application Security
+
+Deployment Safety
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# ☁️ Cloud & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,linux&theme=dark" alt="Cloud Infrastructure"/>
+
+<br><br>
+
+**Cloud Infrastructure** • **Containerization** • **CI/CD** • **Infrastructure as Code** • **Linux**
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🏗️
+
+**Software Engineering**
+
+Building practical and maintainable software solutions.
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**Cloud Engineering**
+
+Working with cloud infrastructure, containers, and deployment workflows.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐
+
+**Identity & Security**
+
+Building secure authentication and system integrations.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔗
+
+**System Integration**
+
+Connecting APIs, services, applications, and business systems.
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -247,13 +451,19 @@ Verification
 <div align="center">
 
 <a href="https://www.linkedin.com/in/deepak-govindaraj-402524274/">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://gdeepak2201-dot.github.io/portfolio/">
-<img src="https://img.shields.io/badge/EXPLORE-Portfolio-06B6D4?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE-Portfolio-06B6D4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/gdeepak2201-dot">
+<img src="https://img.shields.io/badge/FOLLOW-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br><br>
@@ -266,6 +476,6 @@ Verification
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:06b6d4,35:0891b2,70:2563eb,100:020617&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:06b6d4,35:0891b2,70:2563eb,100:020617&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 
 </div>
